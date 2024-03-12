@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm a grade 10 student from Delta BC currently specializing in full-stack web development.
+I'm current learning machine learning with PyTorch, growing my knowledge of web development even more, and looking towards learning more low level languages such as Rust.
+
+If you would like to reach out to me feel free to contact me at <jinayunity22@gmail.com>.
+
 <!--
 **Github11200/Github11200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
