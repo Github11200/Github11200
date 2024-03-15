@@ -1,6 +1,10 @@
-### Hi there 👋
+<h1>Jinay Patel</h1>
+<h2>About me</h2>
+<p>Hi 👋, I'm a grade 10 student from Delta BC currently exploring the field of computer engineering with everything from Machine Learning, full stack web development, and cybersecurity.</p>
 
-I'm a grade 10 student from Delta BC currently specializing in full-stack web development.
+<h2>What I'm currently learning</h2>
+<p>Right now I'm learning about machine learning with PyTorch and this includes computer vision models as well. I am also learning Rust which I plan to use in projects for the backend because of it's reliability and high adoption in the open source community.</p>
+
 I'm current learning machine learning with PyTorch, growing my knowledge of web development even more, and looking towards learning more low level languages such as Rust.
 
 If you would like to reach out to me feel free to contact me at <jinayunity22@gmail.com>.
