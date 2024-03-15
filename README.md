@@ -5,8 +5,6 @@
 <h2>What I'm currently learning</h2>
 <p>Right now I'm learning about machine learning with PyTorch and this includes computer vision models as well. I am also learning Rust which I plan to use in projects for the backend because of it's reliability and high adoption in the open source community.</p>
 
-I'm current learning machine learning with PyTorch, growing my knowledge of web development even more, and looking towards learning more low level languages such as Rust.
-
 If you would like to reach out to me feel free to contact me at <jinayunity22@gmail.com>.
 
 <!--
