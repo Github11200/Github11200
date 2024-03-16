@@ -45,7 +45,8 @@
   </div>
   
   <h2>📫 How to reach me</h2>
-  <p>If you would like to reach out to me feel free to contact me at <a href="mailto:jinayunity22@gmail.com">jinayunity22@gmail.com</a>, I'd love to talk with you!</p>
+  <p>If you would like to reach out to me feel free to contact me at 📧 <a href="mailto:jinayunity22@gmail.com">jinayunity22@gmail.com</a>, on Discord at <a href="discordapp.com/users/904515875615420426">aperson3370</a>, or my Linkedin at <a href="www.linkedin.com/in/jinay-patel-6369002b4">Jinay Patel</a>, I'd love to talk with you!</p>
+  
 </html>
 
 <!--
