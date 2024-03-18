@@ -2,7 +2,7 @@
   <h1>Hi 👋, I'm Jinay Patel</h1>
   
   ![Jinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Github11200&show_icons=true&theme=radical)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Github11200&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Github11200&layout=donut)](https://github.com/Github11200/github-readme-stats)
   <h2>😃 About me</h2>
   <p>I'm a grade 10 student from Delta BC currently exploring the field of computer engineering with everything from Machine Learning, full stack web development, and cybersecurity.</p>
   <h2>🌱 What I'm currently learning</h2>
