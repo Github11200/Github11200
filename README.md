@@ -15,7 +15,7 @@
   <ul>
     <li>Currently I am working with my friend on a company that focuses on providing a tool to help predict stocks using PyTorch, it's called <b>Quantum Trader</b>.</li>
     <li>I am also working on a website for the robotics program at my shcool and I am leading a team to edit large components on the website to make it more dynamic every year.</li>
-    <li>I am planning on also make a lot of contributions to open source projects and one of those projects is called <b>mue</b> but I am also going to be contributing to <b>Reactive Resume</b>.</li>
+    <li>I am planning on also make a lot of contributions to open source projects and some of these projects include Bob (a Neovim version manager written in Rust), Zed, and other Javascript/Typescript projects that I find.</b>.</li>
   </ul>
   
   <h2>🧰 Skills</h2>
@@ -23,7 +23,7 @@
     <p>Below are some technologies I have worked with and am familiar with:</p>
     <p align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,js,deno,nodejs,npm,postman,py,react,tailwind,ts,vite,express,figma,firebase,github,linux,nextjs,git,c,cpp,anaconda" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,deno,nodejs,npm,postman,py,react,tailwind,ts,vite,express,figma,firebase,github,linux,nextjs,git,c,cpp,anaconda,rust" />
       </a>
     </p>
   </div>
