@@ -13,7 +13,7 @@
   
   <h2>🔭 What I'm currently working on</h2>
   <ul>
-    <li>Currently I am working with my friend on a company that focuses on providing a tool to help predict stocks using PyTorch, it's called <b>Quantum Trader</b>.</li>
+    <li>Currently I am working on brainstorming startup ideas, and I have a few in mind related to visualizing algorithms which I will be implementing fairly soon.</li>
     <li>I am also working on a website for the robotics program at my shcool and I am leading a team to edit large components on the website to make it more dynamic every year.</li>
     <li>I am planning on also make a lot of contributions to open source projects and some of these projects include Bob (a Neovim version manager written in Rust), Zed, and other Javascript/Typescript projects that I find.</b>.</li>
   </ul>
