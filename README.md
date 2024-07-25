@@ -4,7 +4,7 @@
   ![Jinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Github11200&show_icons=true&theme=radical)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Github11200&layout=donut)](https://github.com/Github11200/github-readme-stats)
   <h2>😃 About me</h2>
-  <p>I'm a grade 10 student from Delta BC currently exploring the field of computer engineering with everything from Machine Learning, full stack web development, and cybersecurity.</p>
+  <p>I'm a grade 11 student from Delta BC currently exploring the field of computer engineering with everything from Machine Learning, full stack web development, and cybersecurity.</p>
   <h2>🌱 What I'm currently learning</h2>
   <ul>
     <li>Right now I'm learning about machine learning with PyTorch and this includes computer vision models as well</li>
@@ -13,10 +13,10 @@
   
   <h2>🔭 What I'm currently working on</h2>
   <ul>
-    <li>Currently I am working on brainstorming startup ideas, and I have a few in mind related to visualizing algorithms which I will be implementing fairly soon.</li>
+    <li>I'm working on Viral Insight, an AI app that uses your video title to predict the number of views you video may get, https://viralinsight.vercel.app/</li>
     <li>I am learning about NLP so that I can either train my own models or tune open source models to my own datsets.</li>
     <li>I am also working on a website for the robotics program at my shcool and I am leading a team to edit large components on the website to make it more dynamic every year.</li>
-    <li>I am planning on also make a lot of contributions to open source projects and some of these projects include Bob (a Neovim version manager written in Rust), Zed, and other Javascript/Typescript projects that I find.</b>.</li>
+    <li>I am planning on also making contributions to open source projects such as Zed once I become more proficient in Rust.</li>
   </ul>
   
   <h2>🧰 Skills</h2>
