@@ -24,7 +24,7 @@
     <p>Below are some technologies I have worked with and am familiar with:</p>
     <p align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,js,deno,nodejs,npm,postman,py,react,tailwind,ts,vite,express,figma,firebase,github,linux,nextjs,git,c,cpp,anaconda,rust" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,deno,nodejs,npm,postman,py,react,tailwind,ts,vite,express,figma,firebase,github,linux,nextjs,git,c,cpp,anaconda,rust,java" />
       </a>
     </p>
   </div>
