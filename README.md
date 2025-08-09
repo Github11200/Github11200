@@ -1,22 +1,16 @@
 <html>
-  <h1>Hi 👋, I'm Jinay Patel</h1>
-  
-  ![Jinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Github11200&show_icons=true&theme=radical)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Github11200&layout=donut)](https://github.com/Github11200/github-readme-stats)
-  <h2>😃 About me</h2>
-  <p>I'm a grade 11 student from Delta BC currently exploring the field of computer engineering with everything from Machine Learning, full stack web development, and cybersecurity.</p>
+  <h1>Hi 👋, I'm Jinay</h1>
+  <p>I'm a grade 12 student from Delta, BC currently exploring the field of computer engineering with everything from Machine Learning, full stack web development, and cybersecurity.</p>
   <h2>🌱 What I'm currently learning</h2>
   <ul>
-    <li>Right now I'm learning about machine learning with PyTorch and this includes computer vision models as well</li>
-    <li>I am also learning Rust which I plan to use in projects for the backend because of it's reliability and high adoption in the open source community.</li>
+    <li>ML with PyTorch and applying this knowledge in hackathons</li>
+    <li>More advanced C++ for low level things with hardware and OS level projects.</li>
   </ul>
   
   <h2>🔭 What I'm currently working on</h2>
   <ul>
-    <li>I'm working on Viral Insight, an AI app that uses your video title to predict the number of views you video may get, https://viralinsight.vercel.app/</li>
-    <li>I am learning about NLP so that I can either train my own models or tune open source models to my own datsets.</li>
-    <li>I am also working on a website for the robotics program at my shcool and I am leading a team to edit large components on the website to make it more dynamic every year.</li>
-    <li>I am planning on also making contributions to open source projects such as Zed once I become more proficient in Rust.</li>
+    <li>I'm creating a more polished version of our hackathon project, <a href="https://github.com/Github11200/Posturai">Posturai</a>, and trying to launch it as a product</li>
+    <li>I'm working on the website for our robotics programming and making a Content Management System (CMS) for allowing the data to be dynamic.</li>
   </ul>
   
   <h2>🧰 Skills</h2>
